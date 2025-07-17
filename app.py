@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("My web app")
 
-# query = "select * from signup_user;"
+query = "select * from signup_user;"
 
 # df = pd.read_sql(query, conn)
 

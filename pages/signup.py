@@ -5,6 +5,8 @@ st.title("Sign up Here")
 
 col1, col2 = st.columns(2)
 
+# these are new chnages in mu file
+
 with col1:
     username = st.text_input("Enter unique username...")
 
